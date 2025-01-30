@@ -1,20 +1,5 @@
 # Hi there, I'm Gabi! 👋
 
-<!--
-**fonsecagabriella/fonsecagabriella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 I connect the dots between **user experience**, **digital marketing**, and **data**. Currently, I'm diving into the world of **machine learning**.
 
 Let's team up and explore how our journeys can align! 😊
@@ -44,3 +29,47 @@ Let's team up and explore how our journeys can align! 😊
 
 ---
 
+<!-- HTML -->
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
+```yaml
+name: Gabriella Fonseca Ribeiro
+
+location:
+[
+    currently_based: Netherlands 🇳🇱
+    origin: Brazil 🇧🇷
+    languages: Portuguese, English, Dutch (b2), Spanish
+]
+
+education:
+  [
+    "Masters in Media Innovation (Cum Laude, 2022)",
+    "Bachelor in Art&Technology (2014)",
+    "Bachelor in Information Systems (2012)"
+  ]
+
+professional_experience:
+[
+  "Digital Strategist",
+  "Digital Engagement Specialist",
+  "Project Manager / Digital Specialist",
+  "Online Manager",
+  "Jr. Analyst & Developer ",
+  "Web Developer",
+]
+
+currently_learning:
+ [
+    "Data Engineering Zoomcamp",
+    "Mathematics for Machine Learning",
+    "Machine Learning Zoomcamp"
+ ]
+
+volunteering:
+[
+  "Tester at DeepLearning.AI",
+  "Dier buddy at Dierenbescherming"
+]
+
+```
