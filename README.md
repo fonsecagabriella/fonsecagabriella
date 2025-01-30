@@ -25,6 +25,7 @@ Let's team up and explore how our journeys can align! 😊
 - 😄 Pronouns: `she/her`
 - ⚡ Fun fact: `I live with three (rescued) cats 🐱 🐱 🐱`
 
+```
 
                       /^--^\     /^--^\     /^--^\
                       \____/     \____/     \____/
@@ -36,6 +37,8 @@ Let's team up and explore how our journeys can align! 😊
 ########################/ /######\ \###########/ /#######################
 | | | | | | | | | | | | \/| | | | \/| | | | | |\/ | | | | | | | | | | | |
 |_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|
+
+```
 
 👩🏽‍💻 [Check my website](https://imgabi.com/) for a detailed overview of my experience and skills.
 
