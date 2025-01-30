@@ -32,6 +32,8 @@ Let's team up and explore how our journeys can align! 😊
 <!-- HTML -->
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
+## whoami
+
 ```yaml
 name: Gabriella Fonseca Ribeiro
 
