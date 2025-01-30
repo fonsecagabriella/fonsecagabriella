@@ -69,7 +69,18 @@ currently_learning:
 volunteering:
 [
   "Tester at DeepLearning.AI",
-  "Dier buddy at Dierenbescherming"
+  "Dierenbuddy at Dierenbescherming"
+]
+
+fields_of_interests:
+[
+    "Applied Research",
+    "UX",
+    "Data Science",
+    "Machine Learning",
+    "Sustainability",
+    "Media Innovation"
+
 ]
 
 ```
