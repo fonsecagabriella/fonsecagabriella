@@ -19,11 +19,28 @@ I connect the dots between **user experience**, **digital marketing**, and **dat
 
 Let's team up and explore how our journeys can align! 😊
 
+- 🌱 I’m currently learning `machine learning`
+- 👯 I’m looking to collaborate on `machine learning and data projects`
+- 📫 How to reach me: `hello@imgabi.com`
+- 😄 Pronouns: `she/her`
+- ⚡ Fun fact: `I live with three (rescued) cats 🐱 🐱 🐱`
+
+
 ---
 
-Feel free to explore more on my [GitHub](https://github.com/) and connect with me on [LinkedIn](https://www.linkedin.com/).
+ /\     /\
+{  `---'  }
+{  O   O  }   🖥️  "Meow, coding in progress..."
+~~>  V  <~~  
+ \  ~  /   
+  `---'  
+ /     \  
+{       }  
+ |  |  |  
+(__) (__)
 
-[Download my CV](https://imgabi.com/) for a detailed overview of my experience and skills.
+
+👩🏽‍💻 [Check my website](https://imgabi.com/) for a detailed overview of my experience and skills.
 
 ---
 
