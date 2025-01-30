@@ -26,22 +26,13 @@ Let's team up and explore how our journeys can align! 😊
 - ⚡ Fun fact: `I live with three (rescued) cats 🐱 🐱 🐱`
 
 
----
-
- /\     /\
-{  `---'  }
-{  O   O  }   🖥️  "Meow, coding in progress..."
-~~>  V  <~~  
- \  ~  /   
-  `---'  
- /     \  
-{       }  
- |  |  |  
-(__) (__)
+    /\_/\           ___
+   = o_o =_______    \ \  
+    __^      __(  \.__) )
+(@)<_____>__(_____)____/
 
 
 👩🏽‍💻 [Check my website](https://imgabi.com/) for a detailed overview of my experience and skills.
 
 ---
 
-*Created with ❤️ by Gabi*
