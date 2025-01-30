@@ -43,20 +43,20 @@ location:
 ]
 
 education:
-  [
+[
     "Masters in Media Innovation (Cum Laude, 2022)",
     "Bachelor in Art&Technology (2014)",
     "Bachelor in Information Systems (2012)"
-  ]
+]
 
 professional_experience:
 [
-  "Digital Strategist",
-  "Digital Engagement Specialist",
-  "Project Manager / Digital Specialist",
-  "Online Manager",
-  "Jr. Analyst & Developer ",
-  "Web Developer",
+    "Digital Strategist",
+    "Digital Engagement Specialist",
+    "Project Manager / Digital Specialist",
+    "Online Manager",
+    "Jr. Analyst & Developer ",
+    "Web Developer",
 ]
 
 currently_learning:
@@ -68,8 +68,8 @@ currently_learning:
 
 volunteering:
 [
-  "Tester at DeepLearning.AI",
-  "Dierenbuddy at Dierenbescherming"
+    "Tester at DeepLearning.AI",
+    "Dierenbuddy at Dierenbescherming"
 ]
 
 fields_of_interests:
