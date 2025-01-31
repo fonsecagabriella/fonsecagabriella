@@ -75,7 +75,7 @@ volunteering:
     "Dierenbuddy at Dierenbescherming"
 ]
 
-fields_of_interests:
+fields_of_interest:
 [
     "Applied Research",
     "UX",
