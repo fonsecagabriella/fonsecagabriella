@@ -8,6 +8,7 @@ Let's team up and explore how our journeys can align! 😊
 - 👯 I’m looking to collaborate on `machine learning and data projects`
 - 📫 How to reach me: `hello@imgabi.com`
 - 😄 Pronouns: `she/her`
+- 📚 (Bookshelf)[https://imgabi.com/bookshelf/]
 - ⚡ Fun fact: `I live with three (rescued) cats 🐱 🐱 🐱`
 
 ```
